@@ -2,5 +2,9 @@
 # out the current state.
 def board
   board = [" ", " ", " ", " "," "," ", " ", " "," "]
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
-board(board)
